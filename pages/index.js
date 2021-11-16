@@ -5,7 +5,7 @@ function HomePage() {
   return (
   <>
     <Header />
-    <div className="flex flex-col">
+    <div className="flex flex-col p-4">
       <div className="prose mx-auto">
         <p className="text-gray-900 text-xl">Think building websites using the <a href="https://jamstack.org/">Jamstack</a> &amp; coding React components or even just a little CSS or HTML is complicated and better left to professional web developers?</p>
         <p className="text-gray-900 text-xl">Think <em>you</em> don't have the skills or understanding to build your own site on using modern, fast, secure, &amp; Google-compliant approach?</p>
